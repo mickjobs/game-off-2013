@@ -2,13 +2,13 @@
 
 ## Room for Change
 
-RfC is a randomly generated action RPG. You play as a chubby archeologist who is tasked to retrieve three sacred artefacts from the pyramid of the legendary Pharaohs.
+RfC is a randomly generated action RPG. You play as a chubby archeologist who is tasked to retrieve three sacred artifacts from the pyramid of the legendary Pharaohs.
 
-Your way is blocked by stone chamber doors that can't be opened unless there is also a door on the other side. To access other chambers you must change the layout of the maze by moving the chambers in vertical or horizontal direction.
+Your way is blocked by stone chamber doors that can't be opened unless there is also a door on the other side. To access other chambers you must change the layout of the maze by moving the chambers either vertically or horizontally.
 
 But it's not as easy as it sounds! The pyramid is full of dangerous spiders, snakes and mummies!
 
-Try to collect all three artefacts and escape the pyramid! Have fun! :)
+Try to collect all three artifacts and escape the pyramid! Have fun! :)
 
 ![Room for Change](http://sturdyhelmetgames.com/roomforchange_html/screenshot2.png)
 
